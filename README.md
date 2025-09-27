@@ -29,6 +29,8 @@
 -   `WorldEvents.txt`: 描述在世界各地发生的随机或固定事件。
 -   `PlayerStory.txt`: 针对玩家的个人故事线、背景和特殊羁绊。
 -   `PlayerMissionSystem.txt`: 定义玩家可以接取的任务类型、目标和奖励机制。
+-   `CharacterStory.txt`: 详细记录各乐队成员的人物经历、性格特点和关键事件，为游戏角色互动提供背景支持。
+-   `LiveHouseStory.txt`: 描述游戏中各个Live House的设定、特点和重要关联，以及关键工作人员的背景和作用。
 
 ## 如何贡献
 
