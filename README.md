@@ -1,6 +1,8 @@
 # AI BanG Dream! Game - 知识库
 
 欢迎来到 AI BanG Dream! Game 开源知识库项目！
+点击 [此处](https://gemini.google.com/gem/18YefaCzYegzCBSU3dvo0m1A5IbgUIx2d?usp=sharing) 访问 Gem。
+
 
 ## 简介
 
